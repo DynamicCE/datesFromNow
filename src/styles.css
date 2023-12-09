@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.last {
+  text-align: right;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-right: 12px;
+  font-size: 10px;
+}
